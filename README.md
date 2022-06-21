@@ -1,2 +1,4 @@
 # code-20220621-deandracutajar
-Vamstar Python Test
+
+Python.ipynb contains the notebook that completes the test with some documentation.
+
